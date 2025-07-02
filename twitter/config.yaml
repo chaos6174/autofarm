@@ -1,5 +1,5 @@
 # --------------------------- #
-# SETTINGS SECTION
+# SETTINGS SECTION 以下时设置区域，请根据需求修改。
 # --------------------------- #
 SETTINGS:
     # number of concurrent threads
