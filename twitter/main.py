@@ -1,4 +1,4 @@
-#twitter 自动化
+#twitter 自动化管理脚本，仅供交流学习，勿滥用。
 from loguru import logger
 import urllib3
 import sys
