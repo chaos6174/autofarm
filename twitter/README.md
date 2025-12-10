@@ -1,4 +1,4 @@
-# Twitter Bot 2.1 🌟
+# Twitter Bot 2.1 🌟🌟🌟
 A powerful Python-based Twitter automation tool with multithreading support and comprehensive statistics tracking.
 
 ## 📚 Documentation & Tutorials
